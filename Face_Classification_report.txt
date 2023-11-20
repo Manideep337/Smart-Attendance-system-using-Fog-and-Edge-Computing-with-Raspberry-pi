@@ -1,0 +1,32 @@
+
+Test loss: 2711.268798828125%
+Test accuracy: 26.751592755317688%
+
+Kappa accuracy: 0.0%
+Overall accuracy: 26.751592356687897%
+Average accuracy: 25.0%
+
+Classwise Accuracy: 
+1 : 0.0
+2 : 100.0
+3 : 0.0
+4 : 0.0
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           1       0.00      0.00      0.00        39
+           2       0.27      1.00      0.42        42
+           3       0.00      0.00      0.00        43
+           4       0.00      0.00      0.00        33
+
+    accuracy                           0.27       157
+   macro avg       0.07      0.25      0.11       157
+weighted avg       0.07      0.27      0.11       157
+
+
+Confusion Matrix:
+[[ 0 39  0  0]
+ [ 0 42  0  0]
+ [ 0 43  0  0]
+ [ 0 33  0  0]]

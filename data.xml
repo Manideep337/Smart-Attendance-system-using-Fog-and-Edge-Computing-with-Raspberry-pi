@@ -1,0 +1,11 @@
+<data>
+    <days>
+        <day name="Monday">8 9 10 2 3 4 5</day>
+        <day name="Tuesday">8,9,10,2,3,4,5</day>
+        <day name="Wednesday">8,9,10,2,3,4,5</day>
+        <day name="Thursday">8,9,10,2,3,4,5</day>
+        <day name="Friday">8,9,10,2,3,4,5</day>
+        <day name="Saturday">8,9,10,2,3,4,5</day>
+        <day name="Sunday">8,9,10,2,3,4,5</day>
+    </days>
+</data>
